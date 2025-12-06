@@ -1,0 +1,7 @@
+{
+  "name": "DUGMFPT Music",
+  "description": "A cyberpunk-themed music streaming and generation app powered by Gemini, featuring Vietnamese content.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
